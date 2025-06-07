@@ -2,8 +2,6 @@
   ⚡ CaptainThunder31 ⚡
 </h1>
 
-<br />
-
 <h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
 
 ---
@@ -14,9 +12,9 @@
 
 ---
 <br />
-<h1>
-🌀 My ThenderBox:
-</h1>
+
+## 🌀 My ThenderBox:
+
 
 ## **🧠 About Me**
 - An passionate programmer ⚡
