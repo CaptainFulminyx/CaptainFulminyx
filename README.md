@@ -47,8 +47,8 @@ const CaptainThunder31 = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=tokyonight&hide_border=true" width="70%"/>
-  <img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=tokyonight&hide_border=true"/>
@@ -68,12 +68,11 @@ const CaptainThunder31 = {
 
 ### 🧭 Fun Fact
 
-> Not all heroes wear capes—some debug in the dark mode 🌒
+> Not all heroes wear caps, some debug in the dark mode 🌒
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=150&section=footer"/>
 </p>
-```
 
