@@ -17,7 +17,7 @@
 
 
 ## **🧠 About Me**
-- An passionate programmer ⚡
+- A passionate programmer ⚡
 - Making the finest project ✨
 - Design making the system alive 🌱
 - Love mentoring new devs 👨🏻‍🎓
