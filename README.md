@@ -77,13 +77,3 @@ const CaptainThunder31 = {
 </p>
 ```
 
-### Changes and Additions:
-1. **Improved Content**:
-   - Polished descriptions for clarity and engagement.
-2. **GitHub Stats**:
-   - Retained your existing stats section.
-3. **Social Media Links**:
-   - Added LinkedIn and Twitter placeholders for better reach.
-4. **Signature Projects**:
-   - Added a placeholder for showcasing your projects.
-
