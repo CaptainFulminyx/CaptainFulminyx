@@ -13,7 +13,7 @@
 ---
 <br />
 
-## 🌀 My ThenderBox:
+# 🌀 ThenderBox:
 
 
 ## **🧠 About Me**
