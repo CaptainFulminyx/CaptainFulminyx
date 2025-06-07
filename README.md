@@ -1,5 +1,5 @@
 ## ⚡ CaptainThunder31 ⚡  
-**Striking bugs with code, one thunderbolt at a time!**  
+### **Striking bugs with code, one thunderbolt at a time!**  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5C8AFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Science+Enthusiast;Tech+for+the+Finest;Open-Source+Contributor" alt="Typing SVG" />
@@ -71,11 +71,11 @@ const CaptainThunder31 = {
 
 ---
 
-## 📊 **GitHub Analytics**  
+## 🐬 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=radical&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=radical&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
