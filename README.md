@@ -1,131 +1,186 @@
-## ⚡ CaptainThunder31 ⚡  
-### **Striking bugs with code, one thunderbolt at a time!**  
+<p style="font-size:30px; text-align:center;">
+  ⚡ CaptainThunder31 ⚡
+</p>
+
+<br />
+
+<h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5C8AFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Science+Enthusiast;Tech+for+the+Finest;Open-Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=700&color=5C8AFF&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;Real-Time+App+Enthusiast;Tech+for+Mental+Wellness;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
+<br />
+<p style="font-size:25px">
+🌀 My ThenderBox:
+</p>
 
-## 🧠 **About Me**  
-```typescript
-const CaptainThunder31 = {
-  pronouns: "he/him",
+## **🧠 About Me**
+- An passionate programmer ⚡
+- Making the finest project ✨
+- Design making the system alive 🌱
+- Love mentoring new devs 👨🏻‍🎓
+- Collaboration is welcomed 🤗
 
-  code: ["JavaScript", "Python", "HTML/CSS"],
+## 🛠️ **Tech Stack**
 
-  tools: ["Vue.js", "Tensorflow", "Supabase", "Termux"],
-
-  architecture: ["Real-time systems", "Local-first apps", "Mechine Learning Models"],
-
-  hobbies: ["Coding", "UI/UX Design", "Mentoring"],
-
-  motto: "Make it work. Make it best ✨"
-};
-```
-
----
-
-## 🛠️ **Tech Stack**  
-
-### **Languages**  
+### **Languages:**
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-  </a>
-  <a href="https://www.typescript.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="Typescript">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://api.iconify.design/skill-icons:javascript.svg" height="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://api.iconify.design/skill-icons:typescript.svg" height="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+
+<img src="https://api.iconify.design/logos:python.svg" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://api.iconify.design/skill-icons:html.svg" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://api.iconify.design/vscode-icons:file-type-css.svg" height="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://api.iconify.design/material-icon-theme:database.svg" height="40" />
+</a>
 </p>
 
-### **Frameworks & Tools**  
+### **Frameworks & Tools:**
 <p>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  </a>
-  <a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO">
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
-    <img src="https://img.shields.io/badge/IndexedDB-FFA500?logo=indexeddb&logoColor=white&style=for-the-badge" alt="IndexedDB">
-  </a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/devicon:npm.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/logos:vitejs.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/devicon:vuejs.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/devicon:git.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/skill-icons:p5js.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/skill-icons:threejs-dark.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/devicon:postgresql.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/devicon:numpy.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/logos:tensorflow.svg" height="40" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://api.iconify.design/devicon:scikitlearn.svg" height="40" />
+</a>
+
+<a href="https://socket.io/" target="_blank">
+<img src="https://api.iconify.design/material-icon-theme:pytorch.svg" height="40" />
+</a>
+
+<a href="https://supabase.com/" target="_blank">
+<img src="https://api.iconify.design/devicon:matplotlib.svg" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
+<img src="https://api.iconify.design/logos:bash-icon.svg" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
+<img src="https://api.iconify.design/devicon:googlecolab.svg" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
+<img src="https://api.iconify.design/devicon:supabase.svg" height="40" />
+</a>
+
 </p>
 
 ---
 
-## 🌟 **Featured Projects**  
+## 🌟 **Featured Projects**
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| **[Real-Time Chat App](https://github.com/CaptainThunder31/realtime-chat)** | Lightning-fast messaging with WebSockets | ![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?logo=socket.io) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) |
-| **[MoodZen](https://github.com/CaptainThunder31/moodzen)** | AI-powered mental wellness tracker | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) |
+| Project | Description |
+|----------|-------------|
+| **[Garden Game](https://github.com/CaptainThunder31/Spring-Garden-Game)** | Create pretty gardens with multiple flowers |
+| **[TaskFlow](https://github.com/CaptainThunder31/TaskFlow-v1.6)** | Simple todo list app with bestnice design |
 
 ---
 
-## 🐬 **GitHub Stats**  
+## 🐬 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=radical&hide_border=true" width="100%"/>
-  <img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=radical&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=codeSTACKr&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=codeSTACKr&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=react-dark&hide_border=true&area=false" />
 </p>
 
 ---
 
-## 🌐 **Connect With Me**  
+## 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://github.com/CaptainThunder31" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-  </a>
-  <a href="mailto: captainthunderofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
+<a href="https://github.com/CaptainThunder31" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+</a>
+<a href="https://www.instagram.com/captainthunder31" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-CC00CC?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+</a>
+<a href="https://peerlist.io/captainthunder" target="_blank">
+<img src="https://img.shields.io/badge/Peerlist-5ecf01?logo=peerlist&logoColor=black&style=for-the-badge" alt="Peerlist">
+</a>
+<a href="https://www.sololearn.com/profile/27462394/" target="_blank">
+<img src="https://img.shields.io/badge/Sololearn-130162?logo=sololearn&logoColor=white&style=for-the-badge" alt="Sololearn">
+</a>
+<a href="mailto: captainthunderofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-666666?logo=kaggle&logoColor=black&style=for-the-badge" alt="Kaggle">
+</a>
+<a href="https://t.me/CaptainThunder_CT" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-aaf?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram">
+</a>
 </p>
 
 ---
 
-## 🎨 **Design Touch**  
+## 🎨 **Design Touch**
 
 ```diff
-+ Real-time apps that feel alive  
-+ Code that sparks joy  
-! Debugging like a detective  
-# Mental wellness through tech  
++ Real-time apps that feel alive
++ Code that sparks joy
+! Debugging like a detective
+# Mental wellness through tech
 ```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaptainThunder31&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/last-commit/CaptainThunder31/CaptainThunder31?label=LAST+UPDATE&color=green&style=flat" alt="Last Commit"/>
+<img src="https://komarev.com/ghpvc/?username=CaptainThunder31&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/last-commit/CaptainThunder31/CaptainThunder31?label=LAST+UPDATE&color=green&style=flat" alt="Last Commit" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Stay+Awesome!&fontSize=30&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer&text=Stay+Thundered!&fontSize=70&animation=fadeIn" />
 </p>
 
 ---
 
-### 🔥 **Pro Tip**  
-> *"The best debugger is a good night's sleep. The second best? `console.log()`."*  
+### 🔥 **Pro Tip**
+> *"The best debugger is a good night's sleep. The second best? `console.log()`."*
 
-⚡ **Now go build something amazing!** ⚡
+⚡**Now go build something amazing!**⚡
