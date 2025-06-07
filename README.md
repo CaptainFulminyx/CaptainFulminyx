@@ -7,7 +7,6 @@
 
 ### 🧠 About Me
 
-```ts
 const CaptainThunder31 = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   tools: ["Node.js", "Socket.IO", "Supabase", "IndexedDB"],
@@ -15,7 +14,7 @@ const CaptainThunder31 = {
   hobbies: ["Coding", "Designing", "Learning", "Helping"],
   motto: "Make it work. Make it right. Make it calm ⚖️"
 }
-```
+
 
 ---
 
