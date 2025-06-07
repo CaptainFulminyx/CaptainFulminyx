@@ -1,4 +1,4 @@
-<p style="font-size:30px; text-align:center;">
+<p style="font-size:50px; text-align:center;">
   ⚡ CaptainThunder31 ⚡
 </p>
 
@@ -14,7 +14,7 @@
 
 ---
 <br />
-<p style="font-size:25px">
+<p style="font-size:50px">
 🌀 My ThenderBox:
 </p>
 
