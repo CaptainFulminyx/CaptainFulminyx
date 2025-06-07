@@ -1,6 +1,6 @@
-<p style="font-size:50px; text-align:center;">
+<h1 style="text-align:center;">
   ⚡ CaptainThunder31 ⚡
-</p>
+</h1>
 
 <br />
 
@@ -14,9 +14,9 @@
 
 ---
 <br />
-<p style="font-size:50px">
+<h1>
 🌀 My ThenderBox:
-</p>
+</h1>
 
 ## **🧠 About Me**
 - An passionate programmer ⚡
