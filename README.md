@@ -1,21 +1,26 @@
-# ⚡ CaptainThunder31 ⚡  
+## ⚡ CaptainThunder31 ⚡  
 **Striking bugs with code, one thunderbolt at a time!**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5C8AFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Real-Time+App+Enthusiast;Tech+for+Mental+Wellness;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5C8AFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Science+Enthusiast;Tech+for+the+Finest;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 **About Me**  
 ```typescript
-const captainThunder31 = {
+const CaptainThunder31 = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML/CSS"],
-  tools: ["Node.js", "Socket.IO", "Supabase", "IndexedDB"],
-  architecture: ["Real-time systems", "Local-first apps"],
+
+  code: ["JavaScript", "Python", "HTML/CSS"],
+
+  tools: ["Vue.js", "Tensorflow", "Supabase", "Termux"],
+
+  architecture: ["Real-time systems", "Local-first apps", "Mechine Learning Models"],
+
   hobbies: ["Coding", "UI/UX Design", "Mentoring"],
-  motto: "Make it work. Make it right. Make it calm ⚖️"
+
+  motto: "Make it work. Make it best ✨"
 };
 ```
 
@@ -28,8 +33,8 @@ const captainThunder31 = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+  <a href="https://www.typescript.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="Typescript">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
