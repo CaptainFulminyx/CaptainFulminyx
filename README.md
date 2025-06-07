@@ -110,7 +110,7 @@
 | Project | Description |
 |----------|-------------|
 | **[Garden Game](https://github.com/CaptainThunder31/Spring-Garden-Game)** | Create pretty gardens with multiple flowers |
-| **[TaskFlow](https://github.com/CaptainThunder31/TaskFlow-v1.6)** | Simple todo list app with bestnice design |
+| |**[TaskFlow](https://github.com/CaptainThunder31/TaskFlow-v1.6)** | Simple todo list app with bestnice design |
 
 ---
 
@@ -181,4 +181,4 @@
 ### 🔥 **Pro Tip**
 > *"The best debugger is a good night's sleep. The second best? `console.log()`."*
 
-**⚡Now go build something amazing!⚡**
+**Now go build something amazing!⚡**
