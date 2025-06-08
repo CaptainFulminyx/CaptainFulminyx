@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ CaptainThunder31 ⚡
+  ⚡ <br/> CaptainThunder31 <br/>⚡
 </h1>
 
 <h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
