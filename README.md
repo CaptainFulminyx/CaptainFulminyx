@@ -32,7 +32,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:typescript.svg" height="40" />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
 
 <img src="https://api.iconify.design/logos:python.svg" height="40" />
 </a>
@@ -42,64 +42,65 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" height="40" />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank">
 <img src="https://api.iconify.design/material-icon-theme:database.svg" height="40" />
 </a>
 </p>
+
 
 ### **Frameworks & Tools:**
 <p align="center">
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://www.npmjs.com/" target="_blank">
 <img src="https://api.iconify.design/devicon:npm.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://vite.dev/" target="_blank">
 <img src="https://api.iconify.design/logos:vitejs.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://vuejs.org/" target="_blank">
 <img src="https://api.iconify.design/devicon:vuejs.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://api.iconify.design/devicon:git.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://api.iconify.design/skill-icons:p5js.svg" height="40" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://api.iconify.design/skill-icons:threejs-dark.svg" height="40" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
+
+<a href="https://postgresql.org/" target="_blank">
 <img src="https://api.iconify.design/devicon:postgresql.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://numpy.org/" target="_blank">
 <img src="https://api.iconify.design/devicon:numpy.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://tensorflow.org/" target="_blank">
 <img src="https://api.iconify.design/logos:tensorflow.svg" height="40" />
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://scikit-learn.org/" target="_blank">
 <img src="https://api.iconify.design/devicon:scikitlearn.svg" height="40" />
 </a>
 
-<a href="https://socket.io/" target="_blank">
+<a href="https://pytorch.org/" target="_blank">
 <img src="https://api.iconify.design/material-icon-theme:pytorch.svg" height="40" />
 </a>
 
-<a href="https://supabase.com/" target="_blank">
+<a href="https://matplotlib.org/" target="_blank">
 <img src="https://api.iconify.design/devicon:matplotlib.svg" height="40" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank">
 <img src="https://api.iconify.design/logos:bash-icon.svg" height="40" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
+<a href="https://g.co/kgs/axo61a2" target="_blank">
 <img src="https://api.iconify.design/devicon:googlecolab.svg" height="40" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">
+<a href="https://supabase.com/" target="_blank">
 <img src="https://api.iconify.design/devicon:supabase.svg" height="40" />
 </a>
-
+<a href="https://p5js.org/" target="_blank">
+<img src="https://api.iconify.design/skill-icons:p5js.svg" height="40" />
+</a>
+<a href="https://threejs.org/" target="_blank">
+<img src="https://api.iconify.design/skill-icons:threejs-dark.svg" height="40" />
+</a>
 </p>
 
 ---
@@ -144,7 +145,7 @@
 <a href="mailto: captainthunderofficial@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
 </a>
-<a href="#" target="_blank">
+<a href="https://www.kaggle.com/captainthunder31" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-666666?logo=kaggle&logoColor=black&style=for-the-badge" alt="Kaggle">
 </a>
 <a href="https://t.me/CaptainThunder_CT" target="_blank">
