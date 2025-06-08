@@ -5,11 +5,9 @@
 <h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
 
 ---
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=700&color=5C8AFF&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;Real-Time+App+Enthusiast;Python+Programmer;Data+Science+Learner;Open-Source+Contributor" alt="Typing SVG" />
 </p>
-
 ---
 <br />
 
