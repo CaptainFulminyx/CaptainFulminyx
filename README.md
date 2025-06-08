@@ -109,7 +109,7 @@
 | Project | Description |
 |----------|-------------|
 | **[Garden Game](https://github.com/CaptainThunder31/Spring-Garden-Game)** | Create pretty gardens with multiple flowers |
-|**[TaskFlow](https://github.com/CaptainThunder31/TaskFlow-v1.6)** | Simple todo list app with bestnice design |
+|**[TaskFlow](https://github.com/CaptainThunder31/TaskFlow-v1.6)** | Simple todo list app with nice design |
 
 ---
 
