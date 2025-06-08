@@ -25,7 +25,7 @@
 ## 🛠️ **Tech Stack**
 
 ### **Languages:**
-<p>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://api.iconify.design/skill-icons:javascript.svg" height="40" />
 </a>
@@ -48,7 +48,7 @@
 </p>
 
 ### **Frameworks & Tools:**
-<p>
+<p align="center">
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" height="40" />
 </a>
