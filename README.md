@@ -167,12 +167,6 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CaptainThunder31&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/last-commit/CaptainThunder31/CaptainThunder31?label=LAST+UPDATE&color=green&style=flat" alt="Last Commit" />
-</p>
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer&text=Stay+Thundered!&fontSize=70&animation=fadeIn" />
 </p>
 
