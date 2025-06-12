@@ -11,6 +11,7 @@
 
 ---
 <br />
+
 ![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainThunder31&theme=github_dark)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
