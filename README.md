@@ -126,6 +126,7 @@
 </p>
 
 <p align="center">
+
 ![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainThunder31&theme=github_dark)
 </p>
 ---
