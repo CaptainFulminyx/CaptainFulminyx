@@ -12,7 +12,7 @@
 ---
 <br />
 
-<h1> 🌀 ThunderBox: </h1>
+<h1> 🌀 ThunderBox </h1>
 
 
 ## **🧠 About Me**
@@ -159,8 +159,6 @@
 </p>
 
 ---
-
-## 🎨 **Design Touch**
 
 ```diff
 + Real-time apps that feel alive
