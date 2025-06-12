@@ -12,16 +12,6 @@
 ---
 <br />
 
-![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainThunder31&theme=github_dark)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub Contributions](https://ghchart.rshah.org/409ba5/CaptainThunder31)
-
-![GitHub Contributions](https://ghchart.rshah.org/409ba5/CaptainThunder31)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaptainThunder31&theme=dark)](https://git.io/streak-stats)
-
 # 🌀 ThenderBox:
 
 
@@ -135,6 +125,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=react-dark&hide_border=true&area=false" />
 </p>
 
+<p align="center">
+![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainThunder31&theme=github_dark)
+</p>
 ---
 
 ## 🌐 **Connect With Me**
