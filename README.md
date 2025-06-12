@@ -12,7 +12,7 @@
 ---
 <br />
 
-# 🌀 ThenderBox:
+<h1> 🌀 ThunderBox: </h1>
 
 
 ## **🧠 About Me**
