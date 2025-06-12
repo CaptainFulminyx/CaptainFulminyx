@@ -127,7 +127,8 @@
 
 <p align="center">
 
-![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainThunder31&theme=github_dark)
+  <img
+    alt="CaptainThunder31" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainThunder31 &theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 ---
 
