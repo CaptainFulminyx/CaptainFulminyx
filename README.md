@@ -118,6 +118,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=codeSTACKr&hide_border=true" width="100%" />
+
 <img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=codeSTACKr&hide_border=true" width="100%" />
 </p>
 
