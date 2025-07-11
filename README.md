@@ -49,7 +49,7 @@
 
 
 ### **Frameworks & Tools:**
-<p align="center">
+<h2 align="center">
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" height="40" />
 </a>
@@ -101,7 +101,7 @@
 <a href="https://threejs.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:threejs-dark.svg" height="40" />
 </a>
-</p>
+</h2>
 
 ---
 
