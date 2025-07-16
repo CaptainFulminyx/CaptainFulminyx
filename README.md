@@ -26,87 +26,86 @@
 - Love mentoring new devs 👨🏻‍🎓
 - Collaboration is welcomed 🤗
 
-## 🛠️ **Tech Stack**
+---
 
-### **Languages:**
-<h1 align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://api.iconify.design/skill-icons:javascript.svg" height="40" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://api.iconify.design/skill-icons:typescript.svg" height="100" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
+## 🛠️ Tech Stack
 
-<img src="https://api.iconify.design/logos:python.svg" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://api.iconify.design/skill-icons:html.svg" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://api.iconify.design/vscode-icons:file-type-css.svg" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank">
-<img src="https://api.iconify.design/material-icon-theme:database.svg" height="40" />
-</a>
-</h1>
+### Languages:
 
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://api.iconify.design/skill-icons:javascript.svg" width="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://api.iconify.design/skill-icons:typescript.svg" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
+    <img src="https://api.iconify.design/logos:python.svg" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://api.iconify.design/skill-icons:html.svg" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank">
+    <img src="https://api.iconify.design/material-icon-theme:database.svg" width="50" />
+  </a>
+</p>
+---
 
-### **Frameworks & Tools:**
-<h2 align="center">
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" height="40" />
-</a>
-<a href="https://www.npmjs.com/" target="_blank">
-<img src="https://api.iconify.design/devicon:npm.svg" height="40" />
-</a>
-<a href="https://vite.dev/" target="_blank">
-<img src="https://api.iconify.design/logos:vitejs.svg" height="40" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-<img src="https://api.iconify.design/devicon:vuejs.svg" height="40" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://api.iconify.design/devicon:git.svg" height="40" />
-</a>
+### Frameworks & Tools:
 
-<a href="https://postgresql.org/" target="_blank">
-<img src="https://api.iconify.design/devicon:postgresql.svg" height="40" />
-</a>
-<a href="https://numpy.org/" target="_blank">
-<img src="https://api.iconify.design/devicon:numpy.svg" height="40" />
-</a>
-<a href="https://tensorflow.org/" target="_blank">
-<img src="https://api.iconify.design/logos:tensorflow.svg" height="40" />
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://api.iconify.design/devicon:scikitlearn.svg" height="40" />
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://api.iconify.design/material-icon-theme:pytorch.svg" height="40" />
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://api.iconify.design/devicon:matplotlib.svg" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank">
-<img src="https://api.iconify.design/logos:bash-icon.svg" height="40" />
-</a>
-<a href="https://g.co/kgs/axo61a2" target="_blank">
-<img src="https://api.iconify.design/devicon:googlecolab.svg" height="40" />
-</a>
-<a href="https://supabase.com/" target="_blank">
-<img src="https://api.iconify.design/devicon:supabase.svg" height="40" />
-</a>
-<a href="https://p5js.org/" target="_blank">
-<img src="https://api.iconify.design/skill-icons:p5js.svg" height="40" />
-</a>
-<a href="https://threejs.org/" target="_blank">
-<img src="https://api.iconify.design/skill-icons:threejs-dark.svg" height="40" />
-</a>
-</h2>
-
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" width="50" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://api.iconify.design/devicon:npm.svg" width="50" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://api.iconify.design/logos:vitejs.svg" width="50" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://api.iconify.design/devicon:vuejs.svg" width="50" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://api.iconify.design/devicon:git.svg" width="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://api.iconify.design/devicon:postgresql.svg" width="50" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://api.iconify.design/devicon:numpy.svg" width="50" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://api.iconify.design/logos:tensorflow.svg" width="50" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://api.iconify.design/devicon:scikitlearn.svg" width="50" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://api.iconify.design/material-icon-theme:pytorch.svg" width="50" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://api.iconify.design/devicon:matplotlib.svg" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank">
+    <img src="https://api.iconify.design/logos:bash-icon.svg" width="50" />
+  </a>
+  <a href="https://g.co/kgs/axo61a2" target="_blank">
+    <img src="https://api.iconify.design/devicon:googlecolab.svg" width="50" />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://api.iconify.design/devicon:supabase.svg" width="50" />
+  </a>
+  <a href="https://p5js.org/" target="_blank">
+    <img src="https://api.iconify.design/skill-icons:p5js.svg" width="50" />
+  </a>
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://api.iconify.design/skill-icons:threejs-dark.svg" width="50" />
+  </a>
+</p>
 ---
 
 <img src="night.webp" />
