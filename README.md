@@ -52,6 +52,7 @@
     <img src="https://api.iconify.design/material-icon-theme:database.svg" width="50" />
   </a>
 </p>
+
 ---
 
 ### Frameworks & Tools:
@@ -106,6 +107,7 @@
     <img src="https://api.iconify.design/skill-icons:threejs-dark.svg" width="50" />
   </a>
 </p>
+
 ---
 
 <img src="night.webp" />
