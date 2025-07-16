@@ -109,6 +109,8 @@
 
 ---
 
+<img src="night.webp" />
+
 ## 🌟 **Featured Projects**
 
 | Project | Description |
