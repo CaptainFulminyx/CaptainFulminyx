@@ -120,7 +120,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaptainThunder31&theme=codeSTACKr" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaptainThunder31&theme=codeSTACKr" width="100%" alt="CaptainThunder31's Streak Stats"/>
 </p>
 
 <p align="center">
