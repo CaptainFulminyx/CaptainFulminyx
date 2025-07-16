@@ -25,7 +25,7 @@
 ## 🛠️ **Tech Stack**
 
 ### **Languages:**
-<p align="center">
+<h1 align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://api.iconify.design/skill-icons:javascript.svg" height="40" />
 </a>
@@ -45,7 +45,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank">
 <img src="https://api.iconify.design/material-icon-theme:database.svg" height="40" />
 </a>
-</p>
+</h1>
 
 
 ### **Frameworks & Tools:**
@@ -117,9 +117,10 @@
 ## 🐬 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&show_icons=true&theme=codeSTACKr&hide_border=true" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=CaptainThunder31&theme=codeSTACKr&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaptainThunder31&theme=codeSTACKr" width="100%" />
 </p>
 
 <p align="center">
