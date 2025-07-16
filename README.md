@@ -30,7 +30,9 @@
 
 ### **Languages:**
 <h1 align="center">
-<img src="https://api.iconify.design/skill-icons:javascript.svg" height="400" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://api.iconify.design/skill-icons:javascript.svg" height="40" />
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:typescript.svg" height="100" />
 </a>
