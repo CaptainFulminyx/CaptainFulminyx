@@ -53,8 +53,6 @@
   </a>
 </p>
 
----
-
 ### Frameworks & Tools:
 
 <p align="center">
