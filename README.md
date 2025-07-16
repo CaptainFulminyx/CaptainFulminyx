@@ -6,7 +6,7 @@
 
 ---
 
-<img src="Gamer.jpeg" />
+<img src="coder.gif" />
 
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&duration=3000&pause=700&color=FF0&center=true&vCenter=true&width=400&lines=Code.+Create.+Learn.;JavaScript+Python+Data-Science;Open-Source+Contributor" alt="Typing SVG" />
@@ -177,6 +177,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer&text=Stay+Thundered!&fontSize=70&animation=fadeIn" />
 </p>
+
+<img src="sunset.gif" />
 
 ---
 
