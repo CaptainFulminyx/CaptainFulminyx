@@ -29,7 +29,7 @@
 
 ### **Languages:**
 <h1 align="center">
-<img src="https://api.iconify.design/skill-icons:javascript.svg" height="40" />
+<img src="https://api.iconify.design/skill-icons:javascript.svg" height="400" />
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://api.iconify.design/skill-icons:typescript.svg" height="100" />
 </a>
