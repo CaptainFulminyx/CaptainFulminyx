@@ -145,7 +145,7 @@
 <a href="https://github.com/CaptainThunder31" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 </a>
-<a href="https://www.instagram.com/captainthunder31" target="_blank">
+<a href="https://www.instagram.com/captain.fulminyx" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-CC00CC?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
 </a>
 <a href="https://peerlist.io/captainthunder" target="_blank">
