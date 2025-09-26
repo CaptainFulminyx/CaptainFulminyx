@@ -160,7 +160,7 @@
 <a href="https://www.kaggle.com/captainthunder31" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-666666?logo=kaggle&logoColor=black&style=for-the-badge" alt="Kaggle">
 </a>
-<a href="https://t.me/CaptainThunder_CT" target="_blank">
+<a href="https://t.me/CaptainFulminyx" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-aaf?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram">
 </a>
 </p>
