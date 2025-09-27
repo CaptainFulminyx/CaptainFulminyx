@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ <br/> CaptainFulminator <br/>⚡
+  ⚡ <br/> CaptainFulminyx <br/>⚡
 </h1>
 
 <h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
