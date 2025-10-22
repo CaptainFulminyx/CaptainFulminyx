@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ <br/> CaptainFulminyx <br/>⚡
+  ⚡ <br/> Captain Fulminyx <br/>⚡
 </h1>
 
 <h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
@@ -123,18 +123,18 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CaptainThunder31&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaptainThunder31&theme=codeSTACKr" width="100%" alt="CaptainThunder31's Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaptainFulminyx&theme=codeSTACKr" width="100%" alt="CaptainFulminyx's Streak Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainThunder31&theme=react-dark&hide_border=true&area=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true&area=false" />
 </p>
 
 <p align="center">
 
-  <img alt="CaptainThunder31" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainThunder31&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img alt="CaptainFulminyx" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
