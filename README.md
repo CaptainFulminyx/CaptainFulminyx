@@ -142,13 +142,13 @@
 ## 🌐 **Connect With Me**
 
 <p align="center">
-<a href="https://github.com/CaptainThunder31" target="_blank">
+<a href="https://github.com/CaptainFulminyx" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 </a>
 <a href="https://www.instagram.com/captainfulminyx" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-CC00CC?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
 </a>
-<a href="https://peerlist.io/captainthunder" target="_blank">
+<a href="https://peerlist.io/captainfulminyx" target="_blank">
 <img src="https://img.shields.io/badge/Peerlist-5ecf01?logo=peerlist&logoColor=black&style=for-the-badge" alt="Peerlist">
 </a>
 <a href="https://www.sololearn.com/profile/27462394/" target="_blank">
@@ -157,7 +157,7 @@
 <a href="mailto: captainfulminyx@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
 </a>
-<a href="https://www.kaggle.com/captainthunder31" target="_blank">
+<a href="https://www.kaggle.com/captainfulminyx" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-666666?logo=kaggle&logoColor=black&style=for-the-badge" alt="Kaggle">
 </a>
 <a href="https://t.me/CaptainFulminyx" target="_blank">
