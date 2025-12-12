@@ -131,6 +131,17 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true&area=false" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=radical" height="158em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&show_icons=true&theme=radical&hide_border=true" height="158em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&layout=compact&theme=radical&hide_border=true" height="158em" />
+</p>
 
 <p align="center">
 
