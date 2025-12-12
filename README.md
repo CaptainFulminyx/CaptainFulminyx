@@ -119,35 +119,37 @@
 
 ---
 
-## 🐬 **GitHub Stats**
+## 🐬 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" width="100%" />
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&theme=codeSTACKr&show_icons=true&hide_border=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaptainFulminyx&theme=codeSTACKr" width="100%" alt="CaptainFulminyx's Streak Stats"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=CaptainFulminyx&theme=codeSTACKr&hide_border=true" width="100%" />
+
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true&area=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" />
 </p>
+
+<!-- Profile Summary Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=radical" height="158em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=radical" width="100%" />
 </p>
 
+<!-- Stats Card (Radical) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&show_icons=true&theme=radical&hide_border=true" height="158em" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&theme=radical&show_icons=true&hide_border=true" width="100%" />
 </p>
 
+<!-- Languages Compact -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&layout=compact&theme=radical&hide_border=true" height="158em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" />
 </p>
-
-<p align="center">
-
-  <img alt="CaptainFulminyx" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
 ---
 
 ## 🌐 **Connect With Me**
