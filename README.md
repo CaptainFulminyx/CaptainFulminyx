@@ -161,7 +161,7 @@
 <img src="https://img.shields.io/badge/Peerlist-5ecf01?logo=peerlist&logoColor=black&style=for-the-badge" alt="Peerlist">
 </a>
 <a href="https://peerlist.io/captainfulminyx" target="_blank">
-<img src="https://img.shields.io/badge/Peerlist-5ecf01?logo=medium&logoColor=black&style=for-the-badge" alt="Medium">
+<img src="https://img.shields.io/badge/Peerlist-000000?logo=medium&logoColor=black&style=for-the-badge" alt="Medium">
 </a>
 <a href="https://www.sololearn.com/profile/27462394/" target="_blank">
 <img src="https://img.shields.io/badge/Sololearn-130162?logo=sololearn&logoColor=white&style=for-the-badge" alt="Sololearn">
