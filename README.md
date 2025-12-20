@@ -138,18 +138,14 @@
 
 <!-- Profile Summary Card -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=radical" width="100%" />
-</p>
-
-<!-- Stats Card (Radical) -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&theme=radical&show_icons=true&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=codeSTACKr" width="100%" />
 </p>
 
 <!-- Languages Compact -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" />
 </p>
+
 ---
 
 ## 🌐 **Connect With Me**
