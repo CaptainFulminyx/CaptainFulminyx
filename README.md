@@ -13,12 +13,11 @@
 </p>
 
 ---
-<br />
-
 <h3 align="center">I'm a passionate programmer driven by curiosity and problem-solving, combining analytical thinking with a love for thoughtful design. I enjoy building meaningful digital experiences shaped by patterns, people, and the stories hidden in data.</h3>
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages:
 
@@ -100,7 +99,7 @@
 
 <img src="night.webp" />
 
-## 🌟 **Featured Projects**
+## **Featured Projects**
 
 | Project | Description |
 |----------|-------------|
@@ -109,12 +108,11 @@
 
 ---
 
-## 🐬 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
 <!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=CaptainFulminyx&theme=codeSTACKr&show_icons=true&hide_border=true" width="100%" />
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=CaptainFulminyx&theme=codeSTACKr&hide_border=true" width="100%" />
@@ -133,7 +131,13 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## Support My Work 
+
+<a href="https://www.buymeacoffee.com/CaptainFulminyx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<a href='https://ko-fi.com/M4M3QPI7K' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+## **Connect With Me**
 
 <p align="center">
 <a href="https://github.com/CaptainFulminyx" target="_blank">
@@ -161,8 +165,6 @@
 <img src="https://img.shields.io/badge/Telegram-aaf?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram">
 </a>
 </p>
-
-### Support My Work  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CaptainFulminyx)
 
 ---
 ```diff
