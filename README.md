@@ -15,16 +15,8 @@
 ---
 <br />
 
-<h1> 🌀 ThunderBox </h1>
-
-
-## **🧠 About Me**
-- A passionate programmer ⚡
-- Making the finest project ✨
-- Design making the system alive 🌱
-- Love mentoring new devs 👨🏻‍🎓
-- Collaboration is welcomed 🤗
-
+## **About Me**
+I'm a passionate programmer driven by curiosity and problem-solving, combining analytical thinking with a love for thoughtful design. I enjoy building meaningful digital experiences shaped by patterns, people, and the stories hidden in data.
 ---
 
 ## 🛠️ Tech Stack
@@ -176,8 +168,9 @@
 </a>
 </p>
 
----
+### Support My Work  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CaptainFulminyx)
 
+---
 ```diff
 + Real-time apps that feel alive
 + Code that sparks joy
