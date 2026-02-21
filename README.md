@@ -15,8 +15,7 @@
 ---
 <br />
 
-## **About Me**
-I'm a passionate programmer driven by curiosity and problem-solving, combining analytical thinking with a love for thoughtful design. I enjoy building meaningful digital experiences shaped by patterns, people, and the stories hidden in data.
+<h3 align="center">I'm a passionate programmer driven by curiosity and problem-solving, combining analytical thinking with a love for thoughtful design. I enjoy building meaningful digital experiences shaped by patterns, people, and the stories hidden in data.</h3>
 ---
 
 ## 🛠️ Tech Stack
