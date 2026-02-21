@@ -127,11 +127,6 @@ I'm a passionate programmer driven by curiosity and problem-solving, combining a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
-<!-- Profile Summary Card -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=codeSTACKr" width="100%" />
-</p>
-
 <!-- Languages Compact -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" />
@@ -168,7 +163,7 @@ I'm a passionate programmer driven by curiosity and problem-solving, combining a
 </a>
 </p>
 
-### Support My Work  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CaptainFulminyx)
+### Support My Work  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CaptainFulminyx)
 
 ---
 ```diff
