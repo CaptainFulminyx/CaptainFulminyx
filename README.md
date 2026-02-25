@@ -113,21 +113,21 @@
 <p align="center">
 
 <!-- Main Stats -->
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=bajrangCoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="bajrangcoder" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=CaptainFulminyx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="CaptainFulminyx" />
   </
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=CaptainFulminyx&theme=codeSTACKr&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=CaptainFulminyx&theme=codeSTACKr&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 </p>
 
 <!-- Languages Compact -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 </p>
 
 ---
