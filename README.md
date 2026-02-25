@@ -132,11 +132,12 @@
 
 ---
 
-## Support My Work 
+## Support My Work
 <p align="center">
 <a href="https://www.buymeacoffee.com/CaptainFulminyx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p> 
-## **Connect With Me**
+
+## Connect With Me
 
 <p align="center">
 <a href="https://github.com/CaptainFulminyx" target="_blank">
@@ -183,7 +184,7 @@
 
 ---
 
-### 🔥 **Pro Tip**
+### 🔥 **Tip**
 > *"The best debugger is a good night's sleep. The second best? `console.log()`."*
 
 **Now go build something amazing!⚡**
