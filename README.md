@@ -2,8 +2,6 @@
   ⚡ <br/> Captain Fulminyx <br/>⚡
 </h1>
 
-<h3 align="center">Striking bugs with code, one thunderbolt at a time! </h3>
-
 ---
 
 <img src="coder.gif" />
@@ -23,22 +21,22 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:javascript.svg" width="50" />
+    <img src="https://api.iconify.design/skill-icons:javascript.svg" width="30" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:typescript.svg" width="50" />
+    <img src="https://api.iconify.design/skill-icons:typescript.svg" width="30" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
-    <img src="https://api.iconify.design/logos:python.svg" width="50" />
+    <img src="https://api.iconify.design/logos:python.svg" width="30" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:html.svg" width="50" />
+    <img src="https://api.iconify.design/skill-icons:html.svg" width="30" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="50" />
+    <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="30" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank">
-    <img src="https://api.iconify.design/material-icon-theme:database.svg" width="50" />
+    <img src="https://api.iconify.design/material-icon-theme:database.svg" width="30" />
   </a>
 </p>
 
@@ -46,58 +44,56 @@
 
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" width="50" />
+    <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" width="30" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://api.iconify.design/devicon:npm.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:npm.svg" width="30" />
   </a>
   <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://api.iconify.design/logos:vitejs.svg" width="50" />
+    <img src="https://api.iconify.design/logos:vitejs.svg" width="30" />
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://api.iconify.design/devicon:vuejs.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:vuejs.svg" width="30" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://api.iconify.design/devicon:git.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:git.svg" width="30" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://api.iconify.design/devicon:postgresql.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:postgresql.svg" width="30" />
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://api.iconify.design/devicon:numpy.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:numpy.svg" width="30" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://api.iconify.design/logos:tensorflow.svg" width="50" />
+    <img src="https://api.iconify.design/logos:tensorflow.svg" width="30" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://api.iconify.design/devicon:scikitlearn.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:scikitlearn.svg" width="30" />
   </a>
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://api.iconify.design/material-icon-theme:pytorch.svg" width="50" />
+    <img src="https://api.iconify.design/material-icon-theme:pytorch.svg" width="30" />
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://api.iconify.design/devicon:matplotlib.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:matplotlib.svg" width="30" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank">
-    <img src="https://api.iconify.design/logos:bash-icon.svg" width="50" />
+    <img src="https://api.iconify.design/logos:bash-icon.svg" width="30" />
   </a>
   <a href="https://g.co/kgs/axo61a2" target="_blank">
-    <img src="https://api.iconify.design/devicon:googlecolab.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:googlecolab.svg" width="30" />
   </a>
   <a href="https://supabase.com/" target="_blank">
-    <img src="https://api.iconify.design/devicon:supabase.svg" width="50" />
+    <img src="https://api.iconify.design/devicon:supabase.svg" width="30" />
   </a>
   <a href="https://p5js.org/" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:p5js.svg" width="50" />
+    <img src="https://api.iconify.design/skill-icons:p5js.svg" width="30" />
   </a>
   <a href="https://threejs.org/" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:threejs-dark.svg" width="50" />
+    <img src="https://api.iconify.design/skill-icons:threejs-dark.svg" width="30" />
   </a>
 </p>
 
 ---
-
-<img src="night.webp" />
 
 ## **Featured Projects**
 
@@ -114,19 +110,13 @@
 
 <!-- Main Stats -->
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CaptainFulminyx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="CaptainFulminyx" />
-  </
-<!-- Streak Stats -->
+  
 <img src="https://streak-stats.demolab.com?user=CaptainFulminyx&theme=codeSTACKr&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" alt="CaptainFulminyx"/>
-</p>
 
-<!-- Languages Compact -->
-<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewith-rafi&theme=radical" width="100%" alt="CaptainFulminyx"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 </p>
 
@@ -173,18 +163,3 @@
 ! Debugging like a detective
 # Mental wellness through tech
 ```
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer&text=Stay+Thundered!&fontSize=70&animation=fadeIn" />
-</p>
-
-<img src="sunset.gif" />
-
----
-
-### 🔥 **Tip**
-> *"The best debugger is a good night's sleep. The second best? `console.log()`."*
-
-**Now go build something amazing!⚡**
