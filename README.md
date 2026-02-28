@@ -115,8 +115,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainFulminyx&theme=radical" width="100%" alt="CaptainFulminyx"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 </p>
 
