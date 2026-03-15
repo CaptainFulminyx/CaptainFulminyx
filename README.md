@@ -159,5 +159,4 @@
 + Real-time apps that feel alive
 + Code that sparks joy
 ! Debugging like a detective
-# Mental wellness through tech
 ```
