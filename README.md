@@ -114,7 +114,7 @@
 <img src="https://streak-stats.demolab.com?user=CaptainFulminyx&theme=codeSTACKr&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainFulminyx&theme=react-dark&hide_border=true" width="100%" alt="CaptainFulminyx"/>
-
+<a href="https://www.craked.dev/u/CaptainFulminyx"><img src="https://www.craked.dev/api/badge/CaptainFulminyx" alt="CaptainFulminyx's Cracked Score" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFulminyx&theme=radical&layout=compact&hide_border=true" width="100%" alt="CaptainFulminyx"/>
 </p>
 
